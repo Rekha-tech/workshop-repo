@@ -1,0 +1,16 @@
+{
+  "data": {
+
+  },
+  "name": "GitHub_9d919e72",
+  "type": "git",
+  "url": "https://dev.azure.com/sndevopspov/workshop/_git/PartsUnlimited",
+  "authorization": {
+    "scheme": "UsernamePassword",
+    "parameters": {
+      "username": "$GitUserName$",
+      "password": "$GitUserPassword$"
+    }
+  },
+  "isReady": true
+}
